@@ -1,4 +1,5 @@
 🛒 Retail Sales Analysis SQL Project
+
 Beginner-Friendly Data Analytics Project | 3,000+ Records | SQL-Based Business Insights
 
 📊 Project Summary  
