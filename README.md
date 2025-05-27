@@ -1,45 +1,73 @@
-# Optimizing Sales & Customer Behavior in E-Commerce
+🛒 Retail Sales Analysis SQL Project
+Beginner-Friendly Data Analytics Project | 3,000+ Records | SQL-Based Business Insights
 
-This project is designed as a beginner-friendly SQL-based Data Analytics project that analyzes e-commerce data to extract meaningful business insights.
-It demonstrates how SQL can be used to answer real-world questions related to sales, customer behavior, and product performance.
+📊 Project Summary
+This project demonstrates how SQL can be used to analyze real-world retail data. Using a dataset of 3,000+ sales transactions, I explored customer behavior, category performance, and revenue trends to extract meaningful business insights. It’s a practical beginner-level project designed to apply core SQL skills in a business context.
 
----
+✅ What I Did
+Cleaned and explored a structured dataset with 3,000+ rows
 
-## ✅ What I Did
+Wrote 10+ business-driven SQL queries to answer key questions
 
-Analyzed structured datasets of **customers**, **products**, and **orders** using SQL.
+Analyzed:
 
-Wrote 10 SQL queries to uncover insights like:
+Total and category-wise sales
 
-- Total revenue and profit  
-- Top-selling products  
-- High-value customers  
-- Regional sales patterns  
-- Monthly trends  
+Customer demographics
 
----
+Top customers and products
 
-## ✅ Key Skills Applied
+Monthly trends and performance shifts
 
-- SQL joins, aggregations, `GROUP BY`, `ORDER BY`, and filtering  
-- Data cleaning and transformation  
-- Business thinking with data  
-- Data storytelling through SQL  
-- Real-world project presentation (PDF and PowerPoint)
+Gender-based revenue breakdown
 
----
+📌 Key Questions Answered
+How many unique customers do we have?
 
-## 📁 Files Included
+Which category sells the most?
 
-- `.sql` files with all queries  
-- `Retail_Sales_Report.pdf` – Full report  
-- `Retail_Sales_Presentation.pptx` – Stakeholder presentation  
+What are the top 5 high-value customers?
 
----
+What’s the average monthly sales trend?
 
-## ✅ Why This Project
+Who generates more revenue: male or female customers?
 
-As a beginner Data Analyst, I built this project to showcase:
+🧠 Skills Used
+SQL (MySQL)
+
+GROUP BY, ORDER BY, WHERE, HAVING, JOIN (if extended)
+
+Aggregations: SUM, AVG, COUNT, DISTINCT
+
+Data cleaning and basic anomaly checks
+
+Business problem-solving with SQL logic
+
+📁 Files Included
+Retail_Sales_Analysis.sql – All cleaned and final queries
+
+Retail_Sales_Dataset.csv – Sample dataset (3,000+ rows)
+
+
+💼 Why This Project?
+As an aspiring Data Analyst, I built this project to:
+
+Practice SQL on a real-world retail dataset
+
+Apply data thinking to business problems
+
+Demonstrate my readiness for data analyst roles
+
+Build a portfolio-ready project for recruiters and interviews
+
+📌 Ideal For
+Beginner data analysts building portfolios
+
+Anyone practicing SQL for analytics roles
+
+SQL learners looking to apply concepts to projects
+
+
 
 - My ability to work with relational databases  
 - Data storytelling using SQL and business logic  
